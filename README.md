@@ -1,5 +1,4 @@
-# 💫 About Me:
-im currently pursuing BCA at Kristu jayanti (Deemed to be)<br>university.<br>aspiring software devloper
+# 💫 About Me:I am currently pursuing Bachelor of Computer Applications at Kristu Jayanti (Deemed to be) university.<br>aspiring software devloper
 
 
 ## 🌐 Socials:
